@@ -1,2 +1,2 @@
 # putting-barrels
-Experiencia virtual - demo
+Experiencia virtual - demo desarrollado en Stencyl
