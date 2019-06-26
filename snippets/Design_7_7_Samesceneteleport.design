@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="3" id="0">
+        <event-actor-region comment="false" x="150" y="112">
+            <group eventID="3" id="-1">
+                <play-sound4 comment="false" x="161" y="144">
+                    <int id="0" val="0"/>
+                    <get-val-7-8 comment="false" id="1" x="0" y="0"/>
+                </play-sound4>
+                <set-xy comment="false" x="161" y="176">
+                    <get-val-7-1 comment="false" id="0" x="0" y="0"/>
+                    <int id="1" val="0"/>
+                    <get-val-7-9 comment="false" id="2" x="0" y="0"/>
+                </set-xy>
+                <set-xy comment="false" x="161" y="208">
+                    <get-val-7-1 comment="false" id="0" x="0" y="0"/>
+                    <int id="1" val="1"/>
+                    <get-val-7-10 comment="false" id="2" x="0" y="0"/>
+                </set-xy>
+            </group>
+            <int id="0" val="0"/>
+            <get-val-7-2 comment="false" id="1" x="0" y="0"/>
+            <get-val-7-1 comment="false" id="2" x="0" y="0"/>
+        </event-actor-region>
+    </group>
+    <group eventID="3" id="-1"/>
+    <group eventID="4" id="0">
+        <event-actor-region comment="false" x="15" y="15">
+            <group eventID="3" id="-1">
+                <play-sound4 comment="false" x="26" y="47">
+                    <int id="0" val="0"/>
+                    <get-val-7-8 comment="false" id="1" x="0" y="0"/>
+                </play-sound4>
+                <set-xy comment="false" x="26" y="79">
+                    <get-val-7-1 comment="false" id="0" x="0" y="0"/>
+                    <int id="1" val="0"/>
+                    <get-val-7-11 comment="false" id="2" x="0" y="0"/>
+                </set-xy>
+                <set-xy comment="false" x="26" y="111">
+                    <get-val-7-1 comment="false" id="0" x="0" y="0"/>
+                    <int id="1" val="1"/>
+                    <get-val-7-12 comment="false" id="2" x="0" y="0"/>
+                </set-xy>
+            </group>
+            <int id="0" val="0"/>
+            <get-val-7-3 comment="false" id="1" x="0" y="0"/>
+            <get-val-7-1 comment="false" id="2" x="0" y="0"/>
+        </event-actor-region>
+    </group>
+    <group eventID="4" id="-1"/>
+</groups>
