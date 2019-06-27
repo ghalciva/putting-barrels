@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <groups>
     <group eventID="1" id="0">
-        <event-collide-typetotype comment="false" x="15" y="15">
+        <event-collide-typetotype comment="false" x="11" y="82">
             <group eventID="1" id="-1">
-                <play-sound4 comment="false" x="26" y="47">
+                <play-sound4 comment="false" x="22" y="114">
                     <int id="0" val="0"/>
                     <sound eid="15" id="1"/>
                 </play-sound4>
+                <set-game-val-0 comment="false" x="22" y="141">
+                    <minus comment="false" id="0" x="0" y="0">
+                        <get-game-val-0 comment="false" id="0" x="0" y="0"/>
+                        <int id="1" val="1"/>
+                    </minus>
+                </set-game-val-0>
             </group>
             <actortype eid="13" id="0"/>
             <actortype eid="3" id="1"/>
